@@ -1,4 +1,4 @@
-# SEIR 621 Polyglot Challenge
+#  Polyglot Challenge
 
 
 ![JonStewart](./JS1.jpg)
